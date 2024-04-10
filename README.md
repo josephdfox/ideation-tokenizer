@@ -21,3 +21,5 @@ Some LLMs include the use of a logit bias to suppress token probability in outpu
 If you don't want these phrases in ideation output, here is the list:
 
 logit_bias = {35127:-100,34126:-100,36:-100,15836:-100,18876:-100,20171:-100,50:-100,10480:-100,35504:-100,20171:-100,1534:-100,22658:-100,1030:-100,32505:-100,5452:-100,42341:-100,1534:-100,2532:-100,78143:-100}
+
+This is all just for research and tinkering. 
